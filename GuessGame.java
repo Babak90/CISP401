@@ -1,3 +1,14 @@
+/*******************************************************************************
+ Babak Adeli
+ SID#: w1206929
+ A5
+ CISP 401
+ 2017 Spring Semester
+ This is a Java application called GuessGame.  It is the driver for the
+ class which plays the guessing game with the user.                                            
+ ******************************************************************************/
+
+
 import javax.swing.JFrame;
 
 class GuessGame{
