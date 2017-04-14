@@ -1,15 +1,13 @@
-/*
-import java.awt.FlowLayout;
-import java.awt.event.ActionListener;
-import java.awt.event.ActionEvent;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JTextField;
-import javax.swing.JOptionPane;
-import java.util.Random;
-import javax.swing.JButton;
-import javax.swing.Color;
-*/
+/*******************************************************************************
+Babak Adeli
+SID#: w1206929
+CISP 401
+2017 Spring Semester
+This is a Java class called GuessGameFrame.  It plays the guessing game with
+the user by creating a JFrame.  The game chooses a number between 1 and 1000
+and then it will prompt the user for a guess. It will change color based on the
+guess.
+*******************************************************************************/
 
 import java.awt.*;
 import java.awt.event.*;
